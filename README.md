@@ -84,6 +84,7 @@ A curated directory of AI tools that are **genuinely free to use** — not free 
 | Perplexity | AI search with cited answers | Free tier available | [perplexity.ai](https://www.perplexity.ai) |
 | Consensus | AI search over research papers | Free tier available | [consensus.app](https://consensus.app) |
 | Semantic Scholar | Free academic paper search | Free | [semanticscholar.org](https://www.semanticscholar.org) |
+| JournalCompass | Free bilingual journal finder: CAS tiers, IF, review times and APCs across 43,499 SCI/SSCI journals, with AI journal matching | Free tier available | [journalcompass.com](https://journalcompass.com) |
 
 ## Honest Notes
 
