@@ -28,6 +28,7 @@ A curated directory of AI tools that are **genuinely free to use** — not free 
 | DeepSeek | Chat, reasoning, coding help | Free tier available | [chat.deepseek.com](https://chat.deepseek.com) |
 | Mistral Le Chat | Chat, European alternative | Free tier available | [chat.mistral.ai](https://chat.mistral.ai) |
 | Grok | Chat with live X data | Free tier available | [grok.com](https://grok.com) |
+| ChatSequel | Continuing long ChatGPT conversations with per-tab Chrome extension controls | Free tier available | [Chrome Web Store](https://chromewebstore.google.com/detail/cdkihfdcmchokmfbpeglffiiknmmjdcj) |
 
 ## Image Generation & Editing
 
